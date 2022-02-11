@@ -6,8 +6,8 @@ The objective is to gain new skills and develop my expertise on technologies tha
 
 _I will continually update this repo._
 
-#Javascript
+# Javascript
 
-#ReactJs
+# ReactJs
 
-#CSS5(framework)
+# CSS(framework)
